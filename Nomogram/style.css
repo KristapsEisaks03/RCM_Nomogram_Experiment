@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    left: 0;
+}
+#canvasContainer{
+     display:flex;
+     align-items: center;
+     justify-content: center;
+}
